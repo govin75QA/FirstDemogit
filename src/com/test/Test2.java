@@ -8,6 +8,7 @@ public class Test2 {
 		}
 		else {
 			System.out.println("fail");
+			System.out.println("1");
 		}
 		
 
